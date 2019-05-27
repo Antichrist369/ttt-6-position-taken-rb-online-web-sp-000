@@ -6,7 +6,7 @@
      index = "false" 
    elsif (board[index] == "")
      index = "false"
-   elsif (board[index == nil])
+   elsif (board[index[X, O] == nil])
      index = "true"
    end 
  end
