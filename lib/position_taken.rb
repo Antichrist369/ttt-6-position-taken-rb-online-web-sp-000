@@ -6,8 +6,6 @@
      index = "false" 
    elsif (board[index] == "")
      index = "false"
-   else 
-     index = "true" 
    end 
  end
  
