@@ -2,7 +2,5 @@
 #position_taken?
 
  def position_taken?(board, index) 
-    if (board[index] == " " || board[index] == || board[index] == nil)
-    else 
-    end 
-  end 
+   ! (board[index] == " " || board[index] == " " || board[index] == nil) ? 
+ end
